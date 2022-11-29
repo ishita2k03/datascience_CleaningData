@@ -69,7 +69,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-965d3dab7060.js"></script>
   
 
-  <title>datasciencecoursera/run_analysis.R at master · mGalarnyk/datasciencecoursera</title>
+  <title>datasciencecoursera</title>
 
 
 
